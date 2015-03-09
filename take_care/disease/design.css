@@ -1,0 +1,36 @@
+
+ 
+
+
+.btnExample {
+  color: rgb(144,101,76);
+  background: rgb(253,216,152);
+  font-weight: bold;
+  border: 1;
+  height: 40px;
+  width: 150px;
+  border-right-color: rgb(102,0,0);
+  
+
+}
+ 
+.btnExample:hover {
+  color: rgb(0,102,0);
+  background: rgb(253,216,152);
+}
+
+
+.btnExample2 {
+  color: rgb(255,255,255);
+  background: rgb(0,102,0);
+  font-weight: bold;
+  border: 1;
+  height: 40px;
+  width: 150px;
+  border-right-color: rgb(0,0,0);
+}
+
+.btnExample2:hover {
+  color: rgb(0,0,0);
+  background: rgb(0,102,0);
+}
